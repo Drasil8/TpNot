@@ -1,0 +1,20 @@
+USAGE :
+
+Pour créer l'executable, vous devez avoir un repertoire Src contenant vaut .c et vaut .h.
+Vous devez avoir un repertoire Csv contenant vaut Csv.
+
+Vous pouvez compiler via la commande make
+Une fois tous cela en place vous pouvez executer le programme avec la commande make run
+
+La premier option vous demande de choisir entre la partie 1 et la partie 2 (bonus).
+
+Pour la partie 2 bonus, chaque test sera sauvegarder dans le fichier Data/dataKLogement.txt
+Il sera sous la forme suivant : * * * * * * avec les 4 premières * les options pour le calcul de la distance de similarité ( 0 ou 1 ). Et les deux derniers, le MAE et le nombre de K logement.
+
+Option :
+
+Pour pouvoir voir les differents option du makefile, il faut utiliser la commande make help
+
+Auteurs :
+Maxime ALZOUBAIDY
+Dianna Bardasarian

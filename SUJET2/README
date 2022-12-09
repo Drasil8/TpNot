@@ -1,0 +1,8 @@
+USAGE :
+
+Commande make pour compiler
+Commande make run pour executer
+
+OPTION :
+
+Faire la commande make help pour voir toute les options disponible sur le makefile
